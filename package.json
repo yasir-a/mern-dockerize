@@ -1,0 +1,12 @@
+{
+  "name": "mern-dockerize",
+  "version": "1.0.0",
+  "description": "MERN App",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node backend/server.js"
+  },
+  "repository": "https://github.com/yasir-a/mern-dockerize.git",
+  "author": "yasir-a <yasir.techhuset@gmail.com>",
+  "license": "MIT"
+}
